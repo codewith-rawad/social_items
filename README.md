@@ -9,8 +9,7 @@ Welcome to **Social Media Icons Hover Effect**, a stylish and interactive web co
 - 🎭 **Layered Reveal Effect**: The first layer fades away smoothly when hovered.
 - 🖼️ **Customizable Icons**: Easily replace with your preferred social media icons.
 
-## 📸 Preview
-![Preview](preview.png)
+
 
 ## 🛠️ Technologies Used
 - **HTML5** 🏗️
@@ -28,7 +27,7 @@ Welcome to **Social Media Icons Hover Effect**, a stylish and interactive web co
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/social-list-project.git
+   git clone https://github.com/codewith-rawad/social_items.git
    ```
 2. Open `index.html` in your browser.
 3. Hover over the box and enjoy the effect! 🎉
@@ -45,4 +44,4 @@ Pull requests are welcome! Feel free to improve the design or add new features. 
 This project is licensed under the **MIT License**.
 
 ---
-✨ Made with ❤️ by [Your Name](https://github.com/your-username) ✨
+✨ Made with ❤️ by [codewith-rawad](https://github.com/social_items) ✨
